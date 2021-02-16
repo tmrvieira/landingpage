@@ -1,0 +1,61 @@
+body{
+	text-align: center;
+	font-family:segoe ui;
+	background-image: url(images/Project_Management_Background.jpg);
+	background-size: cover;
+	color: white;
+
+
+}
+
+h1 {
+
+font-size: 50px;
+padding-top: 250px;
+text-shadow: 3px 3px 3px grey;
+margin-bottom: 2px;
+
+}
+
+p{
+font-size: 20px;
+
+}
+
+.button{
+text-decoration: none;
+text-align: center;
+background-color:rgb(32,56,100);
+color: white;
+font-size:20px;
+padding: 10px 15px 10px 15px;
+border-radius: 10px;
+}
+
+.button:hover{
+background-color:rgba(32,56,100,0.7);
+}
+
+.List{
+
+list-style:none;
+padding-left:0px;
+margin-top:50px;
+}
+
+.List li{
+
+display: inline;
+}
+
+.List a{
+
+color:rgb(32,56,100);
+font-size: 25px;
+
+}
+
+.List a:hover{
+color:rgba(32,56,100,0.7);
+
+}
